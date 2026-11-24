@@ -16,3 +16,10 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+
+# Elixir / Mix
+_build/
+deps/
+cover/
+erl_crash.dump
+*.ez
